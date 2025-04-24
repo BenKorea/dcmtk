@@ -1,0 +1,26 @@
+{
+    "id": "BFE7C800",
+    "path": "C:/Projects/dcmtk/scripts/orthanc/dcmtk_job.ps1",
+    "project_path": "scripts/orthanc/dcmtk_job.ps1",
+    "type": "text",
+    "hash": "3422681359",
+    "contents": "",
+    "dirty": false,
+    "created": 1745482399853.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "19,143",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1745483324,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1745483324821,
+    "read_only": false,
+    "read_only_alternatives": []
+}
